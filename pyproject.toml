@@ -10,7 +10,7 @@ readme = "README.md"
 requires-python = ">= 3.8"
 
 [project.scripts]
-hello = "nlp_knock_100:hello"
+start = "nlp_knock_100:start"
 
 [build-system]
 requires = ["hatchling"]

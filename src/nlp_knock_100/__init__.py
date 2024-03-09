@@ -1,2 +1,4 @@
-def hello():
-    return "Hello from nlp-knock-100!"
+from . import chapter1
+
+def start():
+    chapter1.start_00()
