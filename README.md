@@ -29,3 +29,11 @@ make
 sudo make install
 ```
 
+## Word2Vec
+
+[GoogleNews-vectors-negative300.bin.gz](https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/view?resourcekey=0-wjGZdNAUop6WykTtMip30g) をダウンロードして解凍
+
+```sh
+gunzip -c GoogleNews-vectors-negative300.bin.gz > data/chapter7/GoogleNews-vectors-negative300.bin
+```
+
