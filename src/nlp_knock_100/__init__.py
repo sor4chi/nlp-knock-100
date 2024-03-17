@@ -1,10 +1,12 @@
-from . import chapter7
+# from . import chapter1
+# from . import chapter2
+# from . import chapter3
+# from . import chapter4
+# from . import chapter5
+# from . import chapter6
+# from . import chapter7
+from . import chapter8
 
 
 def start():
-    # chapter1.start()
-    # chapter2.start()
-    # chapter3.start()
-    # chapter4.start()
-    # chapter6.start()
-    chapter7.start()
+    chapter8.start()
